@@ -22,23 +22,23 @@ This project is a Node.js backend application to manage articles, users, likes, 
 ## Project Structure
 
 nodejs-backend-assignment/
-├── controllers/
-│ ├── articleController.js
-│ ├── notificationController.js
-│ └── userController.js
-├── models/
-│ ├── Article.js
-│ ├── ArticleLike.js
-│ ├── ArticleView.js
-│ ├── Notification.js
-│ └── User.js
-├── routes/
-│ ├── articleRoutes.js
-│ ├── notificationRoutes.js
-│ └── userRoutes.js
-├── index.js
-├── package.json
-└── README.md
+-├── controllers/
+-│ ├── articleController.js
+-│ ├── notificationController.js
+-│ └── userController.js
+-├── models/
+-│ ├── Article.js
+-│ ├── ArticleLike.js
+-│ ├── ArticleView.js
+-│ ├── Notification.js
+-│ └── User.js
+-├── routes/
+-│ ├── articleRoutes.js
+-│ ├── notificationRoutes.js
+-│ └── userRoutes.js
+-├── index.js
+-├── package.json
+-└── README.md
 
 
 

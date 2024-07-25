@@ -21,7 +21,8 @@ This project is a Node.js backend application to manage articles, users, likes, 
 
 ## Project Structure
 
-nodejs-backend-assignment/
+nodejs-backend-assignment
+
 -├── controllers/
 -│ ├── articleController.js
 -│ ├── notificationController.js

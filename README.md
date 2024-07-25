@@ -19,29 +19,6 @@ This project is a Node.js backend application to manage articles, users, likes, 
 - Mongoose
 - Nodemailer (for notifications)
 
-## Project Structure
-
-nodejs-backend-assignment
-
--├── controllers/
--│ ├── articleController.js
--│ ├── notificationController.js
--│ └── userController.js
--├── models/
--│ ├── Article.js
--│ ├── ArticleLike.js
--│ ├── ArticleView.js
--│ ├── Notification.js
--│ └── User.js
--├── routes/
--│ ├── articleRoutes.js
--│ ├── notificationRoutes.js
--│ └── userRoutes.js
--├── index.js
--├── package.json
--└── README.md
-
-
 
 ## API Endpoints
 
